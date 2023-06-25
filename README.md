@@ -22,6 +22,8 @@
 
 <br>
 
+<h3 align="center"><img src="https://github.com/LHG-Git/2021_Kangnam-univ.-Academic-Seminar-/assets/100845169/522736f4-ed01-4bfa-a35c-3a9c240726da"></h3><br>
+
 # 🔊 프로젝트 개요
 * 국내에서 전기자동차가 인기를 끌고 있음<br>
 * 하지만 전기자동차 충전시설 공급이 미비하여 '전기차 충전기 대란' 발생<br>

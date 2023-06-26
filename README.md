@@ -6,9 +6,11 @@
 </div>
 <h3 align="center"><img src="https://github.com/LHG-Git/2021_Kangnam-univ.-Academic-Seminar-/assets/100845169/cd257d21-1797-4aee-aae1-83141e6f12da"></h3>
 
-<h3>💭 분석툴 : JupiterLab, Pandas, Numpy, Geopandas, Matplotlib, Seaborn, Sklearn<br><br>
-    📅 진행기간 : 2022.11.15 ~ 2022.12.02</h3>
-
+<h4> 💭 Language : Python <br><br>
+     📝 Library : Pandas, Numpy, Matplotlib, Seaborn, Geopandas, Scikit-learn <br><br>
+     🛠  Tool : Jupyter <br><br>
+     📅 진행기간 : 2022.11.15 ~ 2022.12.02</h4>
+     
 ### 👨‍👦‍👦 팀원소개
 <table>
 <tbody>

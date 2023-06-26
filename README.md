@@ -4,6 +4,9 @@
   <h1>2022 강남대학교 학술제<br><br>
   ⛽ 전기차 급속 충전소 입지 선정</h1>
 </div>
+<br>
+<h3 align="center"><img src="https://github.com/LHG-Git/2021_Kangnam-univ.-Academic-Seminar-/assets/100845169/cd257d21-1797-4aee-aae1-83141e6f12da"></h3>
+<br>
 
 <h3>💭 분석툴 : JupiterLab, Pandas, Numpy, Geopandas, Matplotlib, Seaborn, Sklearn<br><br>
     📅 진행기간 : 2022.11.15 ~ 2022.12.02</h3>
